@@ -24,6 +24,6 @@ Given curated data from several White-hat hackers as well as the Template of mal
 &nbsp;&nbsp;<img src="vast-challenge/scatter_plot.gif" width="500">
 
 ### Related Links
-Challenge homepage: https://vast-challenge.github.io/2020/index.html</br>
-Mini-Challenge 1 (Graph Analysis): https://vast-challenge.github.io/2020/MC1.html</br>
-Team repo homepage: https://github.com/nspyrison/VAST_Challenge_2020/
+* Challenge homepage: https://vast-challenge.github.io/2020/index.html</br>
+* Mini-Challenge 1 (Graph Analysis): https://vast-challenge.github.io/2020/MC1.html</br>
+* Team repo homepage: https://github.com/nspyrison/VAST_Challenge_2020/
