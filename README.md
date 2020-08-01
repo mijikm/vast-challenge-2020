@@ -18,7 +18,7 @@ Given curated data from several White-hat hackers as well as the Template of mal
 * Visuals of weight animated across time
 
 ### Interesting Findings
-* Top 10 Cumulative Weight across Time within Procurement
+* Top 10 Cumulative Weight across Time within Procurement</br>
 &nbsp;&nbsp;&nbsp;<img src="vast-challenge/bar_plot.gif" width="500"></br>
 * Cumulative Sum of Procurement Weight across Time</br>
 &nbsp;&nbsp;<img src="vast-challenge/scatter_plot.gif" width="500">
