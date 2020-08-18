@@ -19,9 +19,9 @@ Given curated data from several White-hat hackers as well as the Template of mal
 
 ### Interesting Findings
 * Top 10 Cumulative Weight across Time within Procurement</br>
-&nbsp;&nbsp;&nbsp;<img src="vast-challenge/bar_plot2.gif" width="500"></br>
+&nbsp;&nbsp;&nbsp;<img src="vast-challenge/bar_purchase2.gif" width="500"></br>
 * Cumulative Sum of Procurement Weight across Time</br>
-&nbsp;&nbsp;<img src="vast-challenge/scatter_plot2.gif" width="500">
+&nbsp;&nbsp;<img src="vast-challenge/scatter_purchase2.gif" width="500">
 
 ### Related Links
 * Challenge homepage: https://vast-challenge.github.io/2020/index.html</br>
